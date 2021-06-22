@@ -94,6 +94,10 @@
 
 # [6. Subclassing UIView (using MRC)](https://github.com/c4arl0s/6SubClassingUIView#6-subclassing-uiview)
 
+### [Beginning of Hypnosister App](https://github.com/c4arl0s/6SubClassingUIView#1-creating-a-custom-view)
+
+Hypnosister is an application that fills the screen with concentric circles, draw text and enable scrolling and zooming, it also uses the accelerometer to move this concentric circles. It changes color of the concentric circles using a shake motion detection.
+
 1. [x] [1. Creating a Custom View](https://github.com/c4arl0s/6SubClassingUIView#1-creating-a-custom-view)
 2. [x] [2. The drawRect: method](https://github.com/c4arl0s/6SubClassingUIView#3-instantiating-a-uiview)
 3. [x] [3. Instantiating a UIView](https://github.com/c4arl0s/6SubClassingUIView#3-instantiating-a-uiview)
@@ -122,6 +126,8 @@
 
 UIAccelerometer is deprecate. It was substitute with CoreMotion framework.
 
+### [End of Hypnosister App](https://github.com/c4arl0s/8TheAccelerometer#7-challenge-changing-colors) 
+
 1. [x] [1. Setting up the Accelerometer](https://github.com/c4arl0s/8TheAccelerometer#1-setting-up-the-accelerometer)
 2. [x] [2. Getting Accelerometer Data](https://github.com/c4arl0s/8TheAccelerometer#3-orientation-and-scale-of-acceleration)
 3. [x] [3. Orientation and Scale of Acceleration](https://github.com/c4arl0s/8TheAccelerometer#3-orientation-and-scale-of-acceleration)
@@ -144,6 +150,10 @@ UIAccelerometer is deprecate. It was substitute with CoreMotion framework.
 8. [x] [8. For the More Curious: Overriding Autorotation](https://github.com/c4arl0s/9NotificationAndRotation#8-for-the-more-curious-overriding-autorotation)
 
 # [10. UITableView And UITableViewController (Using MRC)](https://github.com/c4arl0s/10UITableViewAndUITableViewControllerObjectiveCMRC#-10-uitableview-and-uitableviewcontroller)
+
+### [Beginning of the Homepwner App](https://github.com/c4arl0s/10UITableViewAndUITableViewControllerObjectiveCMRC#1-beginning-of-the-homepwner-application)
+
+it keeps an inventory of all your possessions. In the case of a fire or other catastrophe, you will have a record for your insurance company. It will record the name, serial number, and a picture of any of your possessions.
 
 1. [x] [1. Beginning of the Homepwner Application](https://github.com/c4arl0s/10UITableViewAndUITableViewController_ObjectiveC#-10-uitableview-and-uitableviewcontroller)
 2. [x] [2. UITableViewController](https://github.com/c4arl0s/10UITableViewAndUITableViewController_ObjectiveC#2-uitableviewcontroller)
@@ -239,6 +249,8 @@ UIAccelerometer is deprecate. It was substitute with CoreMotion framework.
 
 # [18. Localization (using MRC)](https://github.com/c4arl0s/18LocalizationObjectiveCMRC#18-localization---objectivec---mrc)
 
+### [End of the Homepwner App](https://github.com/c4arl0s/18LocalizationObjectiveCMRC#3-nslocalizedstring-and-string-tables)
+
 1. [x] [1. Internationalization using NSLocale](https://github.com/c4arl0s/18LocalizationObjectiveCMRC#1-internationalization-using-nslocale)
 2. [x] [2. Localizing Resources](https://github.com/c4arl0s/18LocalizationObjectiveCMRC#2-localizing-resources)
 3. [x] [3. NSLocalizedString and String tables](https://github.com/c4arl0s/18LocalizationObjectiveCMRC#3-nslocalizedstring-and-string-tables)
@@ -252,6 +264,10 @@ UIAccelerometer is deprecate. It was substitute with CoreMotion framework.
 3. [x] [3. For the More Curious: The Settings Application](https://github.com/c4arl0s/19Settings_MRCObjectiveC#3-for-the-more-curious-the-settings-application)
 
 # [20. Touch Events And UIResponder (using MRC)](https://github.com/c4arl0s/20TouchEventsAndUIResponderMRCObjectiveC#20-touch-events-and-uiresponder---mrc-objectivec)
+
+### [Beginning of the Touchtracker App](https://github.com/c4arl0s/20TouchEventsAndUIResponderMRCObjectiveC#2-creating-the-touchtracker-application)
+
+ This application lets the user draw lines by dragging across the view, you will be able to delete them and save them.
 
 1. [x] [1. Touch Events](https://github.com/c4arl0s/20TouchEventsAndUIResponderMRCObjectiveC#1-touch-events)
 2. [x] [2. Creating the TouchTracker Application](https://github.com/c4arl0s/20TouchEventsAndUIResponderMRCObjectiveC#2-creating-the-touchtracker-application)
@@ -296,6 +312,8 @@ UIAccelerometer is deprecate. It was substitute with CoreMotion framework.
 
 # [24. Blocks And Categories (Using MRC)](https://github.com/c4arl0s/24BlocksAndCategoriesObjectiveCMRC#24-blocks-and-categories---objectivec---mrc)
 
+### [End of the Touchtracker App](https://github.com/c4arl0s/24BlocksAndCategoriesObjectiveCMRC#6-categories)
+
 1. [x] [1. Colorizing TouchDrawView](https://github.com/c4arl0s/24BlocksAndCategoriesObjectiveCMRC#1-colorizing-touchdrawview)
 2. [x] [2. Blocks as Variables](https://github.com/c4arl0s/24BlocksAndCategoriesObjectiveCMRC#2-blocks-as-variables)
 3. [x] [3. Capturing variables](https://github.com/c4arl0s/24BlocksAndCategoriesObjectiveCMRC#3-capturing-variables)
@@ -306,6 +324,10 @@ UIAccelerometer is deprecate. It was substitute with CoreMotion framework.
 8. [x] [8. For the More Curious: Pros and Cons of Callback Options](https://github.com/c4arl0s/24BlocksAndCategoriesObjectiveCMRC#8-for-the-more-curious-pros-and-cons-of-callback-options)
 
 # [25. Web Services And UIWebView (Using MRC)](https://github.com/c4arl0s/25WebServicesAndUIWebViewObjectiveCMRC#25-web-services-and-uiwebview---objectivec---mrc)
+
+### [Beginning of the Nerdfeed App](https://github.com/c4arl0s/25WebServicesAndUIWebViewObjectiveCMRC#2-startin-the-nerdfeed-application)
+
+Application that reads the RSS feed from the Apple newsroom web services. These news will be listed in a table view.
 
 1. [x] [Web Services](https://github.com/c4arl0s/25WebServicesAndUIWebViewObjectiveCMRC#1-web-services)
 2. [x] [Starting the Nerdfeed application](https://github.com/c4arl0s/25WebServicesAndUIWebViewObjectiveCMRC#2-starting-the-nerdfeed-application)
@@ -329,6 +351,10 @@ UIAccelerometer is deprecate. It was substitute with CoreMotion framework.
 
 # [27. Media Playback And Background Execution (using MRC)](https://github.com/c4arl0s/27MediaPlaybackAndBackgroundExecutionObjectiveCMRC#27-media-playback-and-background-execution---objectivec---mrc)
 
+### [Beginning of the MediaPlayer App](https://github.com/c4arl0s/27MediaPlaybackAndBackgroundExecutionObjectiveCMRC#1-creating-the-media-player-application)
+
+MediaPlayer will have a very simple interface so that you can concentrate on the guts of media playback. The application will display two buttons that will initiate different types of audio playback, and it will also display a movie.
+
 1. [x] [1. Creating the Media Player Application](https://github.com/c4arl0s/27MediaPlaybackAndBackgroundExecutionObjectiveCMRC#1-creating-the-media-player-application)
 2. [x] [2. System Sound](https://github.com/c4arl0s/27MediaPlaybackAndBackgroundExecutionObjectiveCMRC#2-system-sound)
 3. [x] [3. Registering System Sounds](https://github.com/c4arl0s/27MediaPlaybackAndBackgroundExecutionObjectiveCMRC#3-registering-system-sounds)
@@ -344,6 +370,10 @@ UIAccelerometer is deprecate. It was substitute with CoreMotion framework.
 13. [x] [13. Challenge: Audio Recording](https://github.com/c4arl0s/27MediaPlaybackAndBackgroundExecutionObjectiveCMRC#13-challenge-audio-recording)
 
 # [28. Bonjour And Web Servers (using MRC](https://github.com/c4arl0s/28BonjourAndWebServersObjectiveCMRC#28-bonjour-and-web-servers---objectivec---mrc)
+
+### [Beginning of the CocoaServer App](https://github.com/c4arl0s/28BonjourAndWebServersObjectiveCMRC#2-creating-cocoaserver)
+
+It creates a server to broadcast its presence and advertise its service on a local area network.
 
 1. [x] [1. Bonjour](https://github.com/c4arl0s/28BonjourAndWebServersObjectiveCMRC#1-bonjour)
 2. [x] [2. Creating CocoaServer](https://github.com/c4arl0s/28BonjourAndWebServersObjectiveCMRC#2-creating-cocoaserver)
