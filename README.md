@@ -98,6 +98,8 @@
 
 Hypnosister is an application that fills the screen with concentric circles, draw text and enable scrolling and zooming, it also uses the accelerometer to move this concentric circles. It changes color of the concentric circles using a shake motion detection.
 
+![92780427-bfe7a880-f368-11ea-9877-309232faa9ec](https://user-images.githubusercontent.com/24994818/123334887-59073a80-d509-11eb-8a80-01fcbb59e133.gif)
+
 1. [x] [1. Creating a Custom View](https://github.com/c4arl0s/6SubClassingUIView#1-creating-a-custom-view)
 2. [x] [2. The drawRect: method](https://github.com/c4arl0s/6SubClassingUIView#3-instantiating-a-uiview)
 3. [x] [3. Instantiating a UIView](https://github.com/c4arl0s/6SubClassingUIView#3-instantiating-a-uiview)
@@ -153,7 +155,9 @@ UIAccelerometer is deprecate. It was substitute with CoreMotion framework.
 
 ### [Beginning of the Homepwner App](https://github.com/c4arl0s/10UITableViewAndUITableViewControllerObjectiveCMRC#1-beginning-of-the-homepwner-application)
 
-it keeps an inventory of all your possessions. In the case of a fire or other catastrophe, you will have a record for your insurance company. It will record the name, serial number, and a picture of any of your possessions.
+It keeps an inventory of all your possessions. In the case of a fire or other catastrophe, you will have a record for your insurance company. It will record the name, serial number, and a picture of any of your possessions.
+
+![105117383-01642f00-5a92-11eb-881d-4831020f49f4](https://user-images.githubusercontent.com/24994818/123335140-a7b4d480-d509-11eb-82eb-5a3e543dd732.gif)
 
 1. [x] [1. Beginning of the Homepwner Application](https://github.com/c4arl0s/10UITableViewAndUITableViewController_ObjectiveC#-10-uitableview-and-uitableviewcontroller)
 2. [x] [2. UITableViewController](https://github.com/c4arl0s/10UITableViewAndUITableViewController_ObjectiveC#2-uitableviewcontroller)
@@ -269,6 +273,8 @@ it keeps an inventory of all your possessions. In the case of a fire or other ca
 
  This application lets the user draw lines by dragging across the view, you will be able to delete them and save them.
 
+![106779329-7f851180-660c-11eb-90b1-a1f8cc7d9534-2](https://user-images.githubusercontent.com/24994818/123335508-2e69b180-d50a-11eb-9c24-15d61c8702df.gif)
+
 1. [x] [1. Touch Events](https://github.com/c4arl0s/20TouchEventsAndUIResponderMRCObjectiveC#1-touch-events)
 2. [x] [2. Creating the TouchTracker Application](https://github.com/c4arl0s/20TouchEventsAndUIResponderMRCObjectiveC#2-creating-the-touchtracker-application)
 3. [x] [3. Turning Touches into Lines](https://github.com/c4arl0s/20TouchEventsAndUIResponderMRCObjectiveC#3-turning-touches-into-lines)
@@ -329,6 +335,8 @@ it keeps an inventory of all your possessions. In the case of a fire or other ca
 
 Application that reads the RSS feed from the Apple newsroom web services. These news will be listed in a table view.
 
+![107708823-c36dbb80-6c89-11eb-8c7c-8bb8a2b5be78](https://user-images.githubusercontent.com/24994818/123335834-a46e1880-d50a-11eb-86d1-385acefa0307.gif)
+
 1. [x] [Web Services](https://github.com/c4arl0s/25WebServicesAndUIWebViewObjectiveCMRC#1-web-services)
 2. [x] [Starting the Nerdfeed application](https://github.com/c4arl0s/25WebServicesAndUIWebViewObjectiveCMRC#2-starting-the-nerdfeed-application)
 3. [x] [Fetching data from a URL](https://github.com/c4arl0s/25WebServicesAndUIWebViewObjectiveCMRC#3-fetching-data-from-a-url)
@@ -355,6 +363,8 @@ Application that reads the RSS feed from the Apple newsroom web services. These 
 
 MediaPlayer will have a very simple interface so that you can concentrate on the guts of media playback. The application will display two buttons that will initiate different types of audio playback, and it will also display a movie.
 
+![107838161-22a2fd00-6d6a-11eb-8534-b78e93cb6709](https://user-images.githubusercontent.com/24994818/123336258-383fe480-d50b-11eb-8021-7bdb555e2ae8.gif)
+
 1. [x] [1. Creating the Media Player Application](https://github.com/c4arl0s/27MediaPlaybackAndBackgroundExecutionObjectiveCMRC#1-creating-the-media-player-application)
 2. [x] [2. System Sound](https://github.com/c4arl0s/27MediaPlaybackAndBackgroundExecutionObjectiveCMRC#2-system-sound)
 3. [x] [3. Registering System Sounds](https://github.com/c4arl0s/27MediaPlaybackAndBackgroundExecutionObjectiveCMRC#3-registering-system-sounds)
@@ -374,6 +384,9 @@ MediaPlayer will have a very simple interface so that you can concentrate on the
 ### [Beginning of the CocoaServer App](https://github.com/c4arl0s/28BonjourAndWebServersObjectiveCMRC#2-creating-cocoaserver)
 
 It creates a server to broadcast its presence and advertise its service on a local area network.
+
+![107959889-92cba180-6f69-11eb-8978-f1eeee74b74a](https://user-images.githubusercontent.com/24994818/123336554-a7b5d400-d50b-11eb-9288-e77e8590bbd4.gif)
+![107969794-dd531b00-6f75-11eb-8e37-87c6d19edf0b](https://user-images.githubusercontent.com/24994818/123336558-a97f9780-d50b-11eb-87c1-b45f1eac542c.png)
 
 1. [x] [1. Bonjour](https://github.com/c4arl0s/28BonjourAndWebServersObjectiveCMRC#1-bonjour)
 2. [x] [2. Creating CocoaServer](https://github.com/c4arl0s/28BonjourAndWebServersObjectiveCMRC#2-creating-cocoaserver)
