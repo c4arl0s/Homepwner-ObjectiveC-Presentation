@@ -277,7 +277,9 @@ It keeps an inventory of all your possessions. In the case of a fire or other ca
 
  This application lets the user draw lines by dragging across the view, you will be able to delete them and save them.
 
-![106779329-7f851180-660c-11eb-90b1-a1f8cc7d9534-2](https://user-images.githubusercontent.com/24994818/123335508-2e69b180-d50a-11eb-9c24-15d61c8702df.gif)
+| Notes                                                                                                                         |                                                                                                                               |                                                                                                                               | xcodeproj                                                                                                                     |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124363145-30fd9280-dbff-11eb-8a5f-a40ee4633e80.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124363172-60ac9a80-dbff-11eb-8e84-633f31aff5cf.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124363305-11b33500-dc00-11eb-996b-abe3df7d4239.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/123335508-2e69b180-d50a-11eb-9c24-15d61c8702df.gif" width="250"> |
 
 1. [x] [1. Touch Events](https://github.com/c4arl0s/20TouchEventsAndUIResponderMRCObjectiveC#1-touch-events)
 2. [x] [2. Creating the TouchTracker Application](https://github.com/c4arl0s/20TouchEventsAndUIResponderMRCObjectiveC#2-creating-the-touchtracker-application)
