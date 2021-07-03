@@ -98,7 +98,9 @@
 
 Hypnosister is an application that fills the screen with concentric circles, draw text and enable scrolling and zooming, it also uses the accelerometer to move this concentric circles. It changes color of the concentric circles using a shake motion detection.
 
-![92780427-bfe7a880-f368-11ea-9877-309232faa9ec](https://user-images.githubusercontent.com/24994818/123334887-59073a80-d509-11eb-8a80-01fcbb59e133.gif)
+| Notes                                                                                                                         |                                                                                                                               |                                                                                                                               | xcodeproj                                                                                                                     |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124362615-98194800-dbfb-11eb-8f2a-350152c54935.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124362793-cd726580-dbfc-11eb-9001-4ed1e3836327.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124362644-df073d80-dbfb-11eb-834f-b225dcdc1831.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/123334887-59073a80-d509-11eb-8a80-01fcbb59e133.gif" width="250"> |
 
 1. [x] [1. Creating a Custom View](https://github.com/c4arl0s/6SubClassingUIView#1-creating-a-custom-view)
 2. [x] [2. The drawRect: method](https://github.com/c4arl0s/6SubClassingUIView#3-instantiating-a-uiview)
