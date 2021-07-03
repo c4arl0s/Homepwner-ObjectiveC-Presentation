@@ -341,7 +341,9 @@ It keeps an inventory of all your possessions. In the case of a fire or other ca
 
 Application that reads the RSS feed from the Apple newsroom web services. These news will be listed in a table view.
 
-![107708823-c36dbb80-6c89-11eb-8c7c-8bb8a2b5be78](https://user-images.githubusercontent.com/24994818/123335834-a46e1880-d50a-11eb-86d1-385acefa0307.gif)
+| Notes                                                                                                                         |                                                                                                                               |                                                                                                                               | xcodeproj                                                                                                                     |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124363457-f0067d80-dc00-11eb-8ac7-a7a81977bf02.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124363510-42e03500-dc01-11eb-897c-02af7d605a84.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/107317926-35af8780-6a61-11eb-82af-44f83378b3ab.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/123335834-a46e1880-d50a-11eb-86d1-385acefa0307.gif" width="250"> |
 
 1. [x] [Web Services](https://github.com/c4arl0s/25WebServicesAndUIWebViewObjectiveCMRC#1-web-services)
 2. [x] [Starting the Nerdfeed application](https://github.com/c4arl0s/25WebServicesAndUIWebViewObjectiveCMRC#2-starting-the-nerdfeed-application)
