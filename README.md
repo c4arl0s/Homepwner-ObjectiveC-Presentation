@@ -395,8 +395,9 @@ MediaPlayer will have a very simple interface so that you can concentrate on the
 
 It creates a server to broadcast its presence and advertise its service on a local area network.
 
-![107959889-92cba180-6f69-11eb-8978-f1eeee74b74a](https://user-images.githubusercontent.com/24994818/123336554-a7b5d400-d50b-11eb-9288-e77e8590bbd4.gif)
-![107969794-dd531b00-6f75-11eb-8e37-87c6d19edf0b](https://user-images.githubusercontent.com/24994818/123336558-a97f9780-d50b-11eb-87c1-b45f1eac542c.png)
+| Notes                                                                                                                         |                                                                                                                               |                                                                                                                               | xcodeproj                                                                                                                     |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124364040-86886e00-dc04-11eb-88a3-300dc5ae03a8.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/107910329-cf72ab00-6f1f-11eb-89a8-40ffad8b4d92.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/107959889-92cba180-6f69-11eb-8978-f1eeee74b74a.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124364126-0b738780-dc05-11eb-8a03-2184573b40fe.png" width="250"> |
 
 1. [x] [1. Bonjour](https://github.com/c4arl0s/28BonjourAndWebServersObjectiveCMRC#1-bonjour)
 2. [x] [2. Creating CocoaServer](https://github.com/c4arl0s/28BonjourAndWebServersObjectiveCMRC#2-creating-cocoaserver)
