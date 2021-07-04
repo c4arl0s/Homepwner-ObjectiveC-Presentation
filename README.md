@@ -2,6 +2,10 @@
 
 # [1. A Simple iOS Application (Using MRC)](https://github.com/c4arl0s/1ASimpleiOSApplicationObjectiveCMRC#1-a-simple-ios-application)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |                                                                                                                               |                                                                                                                                |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124398989-4d243100-dcde-11eb-93c7-0f50604be925.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/106413058-c0173c00-640e-11eb-8982-2912e8b6fc24.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/106420499-6881cc00-6420-11eb-8e7d-fa0db06d3489.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/106421955-55243000-6423-11eb-84e7-26c9a6e550e7.jpeg" width="250"> |
+
 1. [x] [1. Creating Xcode Project](https://github.com/c4arl0s/1ASimpleiOSApplicationObjectiveCMRC#1-creating-xcode-project)
 2. [x] [2. Building Interfaces](https://github.com/c4arl0s/1ASimpleiOSApplicationObjectiveCMRC#2-building-interfaces)
 3. [x] [3. Model-View-Controller](https://github.com/c4arl0s/1ASimpleiOSApplicationObjectiveCMRC#3-model-view-controller)
@@ -19,6 +23,10 @@
 15. [x] [15. Launch Images](https://github.com/c4arl0s/1ASimpleiOSApplicationObjectiveCMRC#15-launch-images)
 
 # [2. Objective-C](https://github.com/c4arl0s/2ObjectiveC#2-objective-c)
+
+| At a glance: Notes                                                                                                            |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/123514503-f7ee7c80-d658-11eb-8588-c8ad79d225ad.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/123527768-b1743e80-d6a7-11eb-9265-4464c84bfdb4.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/123532322-daa9c480-d6d1-11eb-9430-3dc85cb9180f.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/123739094-b124a080-d86b-11eb-9a9b-2adbc2e6481f.png" width="250"> |
 
 1. [x] [1. Objects](https://github.com/c4arl0s/2ObjectiveC#1-objects)
 2. [x] [2. Using instances](https://github.com/c4arl0s/2ObjectiveC#2-using-instances)
@@ -47,6 +55,10 @@
 
 # 3 [Memory Management (using MRC)](https://github.com/c4arl0s/3MemoryManagement#memory-managemnt)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124399178-67124380-dcdf-11eb-919f-5ed0c648f116.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124026868-d6262a00-d9b7-11eb-979a-595f9f77354c.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124399198-90cb6a80-dcdf-11eb-9261-da5787e54a1a.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124399215-b0629300-dcdf-11eb-9f99-7e8533a87ad2.png" width="250"> |
+
 1. [x] [1. Memory Management Basics](https://github.com/c4arl0s/3MemoryManagement#1-memory-management-basics)
 2. [x] [2. Managing Memory in C](https://github.com/c4arl0s/3MemoryManagement#2-managing-memory-in-c)
 3. [x] [3. Managing Memory with Objects](https://github.com/c4arl0s/3MemoryManagement#3-managing-memory-with-objects)
@@ -64,6 +76,10 @@
 
 # [4. Delegation And Core Location (Using MRC)](https://github.com/c4arl0s/4DelegationAndCoreLocation#4-delegation-and-core-location)
 
+| At a glance: Notes                                                                                                            |                                                                                                                              |                                                                                                                              |                                                                                                                              |
+|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124399326-3a126080-dce0-11eb-884c-55e4f4a024a1.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/88838652-7e77b100-d19f-11ea-8ea9-d9eca2ebf854.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/88838795-ad8e2280-d19f-11ea-830a-52e7e7a24d77.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/88981454-9a588100-d28b-11ea-95ca-50548c886643.png" width="250"> |
+
 1. [x] [1. Projects, targets, and frameworks](https://github.com/c4arl0s/4DelegationAndCoreLocation#1-projects-targets-and-frameworks)
 2. [x] [2. Core Location](https://github.com/c4arl0s/4DelegationAndCoreLocation#2-core-location)
 3. [x] [3. Receiving updates from CLLocationManager](https://github.com/c4arl0s/4DelegationAndCoreLocation#3-receiving-updates-from-cllocationmanager)
@@ -79,6 +95,10 @@
 10. [x] [10. For the most curious: Build Phases, Compiler Errors, and linked Errors](https://github.com/c4arl0s/4DelegationAndCoreLocation#10-for-the-most-curious-build-phases-compiler-errors-and-linked-errors)
 
 # [5. Map Kit And Text Input (using MRC)](https://github.com/c4arl0s/5MapKitAndTextInput#5-map-kit-and-text-input)
+
+| At a glance: Notes                                                                                                            |                                                                                                                               |                                                                                                                              |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124399398-c9b80f00-dce0-11eb-8192-a630fee3eb66.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124399378-ac834080-dce0-11eb-9eb9-b71abc7a30c9.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/90328168-0a3f5a80-df60-11ea-8ba7-2d1e53c0d7c5.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/104148854-959b0b80-5399-11eb-85f7-f075b0bbfc77.png" width="250"> |
 
 1. [x] [1. Map Kit and Text Input - Intro](https://github.com/c4arl0s/5MapKitAndTextInput#1-map-kit-and-text-input---intro)
 2. [x] [2. Object Diagrams](https://github.com/c4arl0s/5MapKitAndTextInput#2-object-diagrams)
@@ -115,6 +135,10 @@ Hypnosister is an application that fills the screen with concentric circles, dra
 
 # [7. ViewControllers (using MRC)](https://github.com/c4arl0s/7ViewControllers#7-viewcontrollers---objectivec---mrc)
 
+| At a glance: Notes                                                                                                           |                                                                                                                              |                                                                                                                               |                                                                                                                               |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/91615856-1fe25600-e94a-11ea-8e2b-be5df5d79eb6.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/91620061-810f2700-e954-11ea-9ba2-90dc007a5eec.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/122389944-15c03100-cf37-11eb-8f0e-b769f9b9b98e.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124399491-73979b80-dce1-11eb-9e24-b9a4397090a9.png" width="250"> |
+
 1. [x] [1. View Controllers and XIB Files](https://github.com/c4arl0s/7ViewControllers#1-view-controllers-and-xib-files)
 2. [x] [2. Using View Controllers](https://github.com/c4arl0s/7ViewControllers#2-using-view-controllers)
 3. [x] [3. Creating the UITabBarController](https://github.com/c4arl0s/7ViewControllers#3-creating-the-uitabbarcontroller)
@@ -130,6 +154,10 @@ Hypnosister is an application that fills the screen with concentric circles, dra
 
 UIAccelerometer is deprecate. It was substitute with CoreMotion framework.
 
+| At a glance: Notes                                                                                                           |                                                                                                                              |                                                                                                                              |                                                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/92413082-11e3c080-f114-11ea-9d21-f818f2e25ecd.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/92413176-80c11980-f114-11ea-8fa3-88d67a4a3e38.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/92771413-7b580f00-f360-11ea-8e92-f9517e530071.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/93918672-4c338d00-fcd2-11ea-97cc-0e79f74c7760.gif" width="250"> |
+
 ### [End of Hypnosister App](https://github.com/c4arl0s/8TheAccelerometer#7-challenge-changing-colors) 
 
 1. [x] [1. Setting up the Accelerometer](https://github.com/c4arl0s/8TheAccelerometer#1-setting-up-the-accelerometer)
@@ -143,6 +171,10 @@ UIAccelerometer is deprecate. It was substitute with CoreMotion framework.
 9. [x] [9. For the More Curious: Retina Display](https://github.com/c4arl0s/8TheAccelerometer#9-for-the-more-curious-retina-display)
 
 # [9. Notification And Rotation (Using MRC)](https://github.com/c4arl0s/10UITableViewAndUITableViewControllerObjectiveCMRC#-10-uitableview-and-uitableviewcontroller)
+
+| At a glance: Notes                                                                                                           |                                                                                                                               |                                                                                                                              |                                                                                                                               |
+|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/96102945-b6d48480-0e9c-11eb-82a2-149e8c931dc8.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/102667770-cc418580-414f-11eb-9523-588c2a499e81.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/97212195-a8804580-1785-11eb-9a9d-9c9794d251cf.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/102668765-630f4180-4152-11eb-9a57-6be0b30c6ce3.png" width="250"> |
 
 1. [x] [1. Notification and Rotation](https://github.com/c4arl0s/9NotificationAndRotation#1-9-notification-and-rotation---intro)
 2. [x] [2. Notification Center](https://github.com/c4arl0s/9NotificationAndRotation#2-notification-center)
@@ -177,12 +209,20 @@ It keeps an inventory of all your possessions. In the case of a fire or other ca
 
 # [11. Editing UITableView (using MRC)](https://github.com/c4arl0s/11EditingUITableView_ObjectiveC#11-editing-uitableview-objectivec)
 
+| At a glance: Notes                                                                                                           |                                                                                                                              |                                                                                                                              |                                                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/97524824-25204900-196b-11eb-91c3-6cb41bc5b04a.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/97645074-961a3c00-1a11-11eb-9fc6-ec17a2084bdd.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/97734492-dbd11600-1a9e-11eb-987d-a77e3ca37422.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/97798115-c536d600-1be8-11eb-85a1-13e0fda1f432.gif" width="250"> |
+
 1. [x] [1. Editing Mode](https://github.com/c4arl0s/11EditingUITableView_ObjectiveC#1-editing-mode)
 2. [x] [2. Adding Rows](https://github.com/c4arl0s/11EditingUITableView_ObjectiveC#2-adding-rows)
 3. [x] [3. Deleting Rows](https://github.com/c4arl0s/11EditingUITableView_ObjectiveC#3-deleting-rows)
 4. [x] [4. Moving Rows](https://github.com/c4arl0s/11EditingUITableView_ObjectiveC#4-moving-rows)
 
 # [12. UINavigationController (Using MRC)](https://github.com/c4arl0s/12UINavigationController#12-uinavigationcontroller)
+
+| At a glance: Notes                                                                                                           |                                                                                                                              |                                                                                                                              |                                                                                                                               |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/98084090-e98cef80-1e40-11eb-99e1-6f69975e5907.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/98333085-98f2cf00-1fc5-11eb-91ba-79cb3d6f1000.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/98440160-b9ea1b80-20bc-11eb-8cd4-a4974da38d23.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/103045838-a7805000-454b-11eb-9f3c-5849ca6b34a6.gif" width="250"> |
 
 1. [x] [1. UINavigationController](https://github.com/c4arl0s/12UINavigationController#1-uinavigationcontroller)
 2. [x] [2. UINavigationBar](https://github.com/c4arl0s/12UINavigationController#2-uinavigationbar)
@@ -194,6 +234,10 @@ It keeps an inventory of all your possessions. In the case of a fire or other ca
 8. [x] [8. Challenge: Number Pad](https://github.com/c4arl0s/12UINavigationController#8-challenge-number-pad)
 
 # [13. Camera (using MRC)](https://github.com/c4arl0s/13Camera_ObjectiveC_NoARC#13-camera---objectivec---noarc)
+
+| At a glance: Notes                                                                                                            |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/103145887-a8a9ac80-4706-11eb-835a-ba2e47fad6b8.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/103247287-feab6980-492b-11eb-95c1-6c8574594f9a.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/103387088-8083ca00-4ac7-11eb-9cad-de0f7f26b84c.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/103805821-bf5ed600-5019-11eb-962d-576c124b75a2.gif" width="250"> |
 
 1. [x] [1. Displaying Images and UIImageView](https://github.com/c4arl0s/13Camera_ObjectiveC_NoARC#1-displaying-images-and-uiimageview)
 2. [x] [2. Taking pictures and UIImagePickerController](https://github.com/c4arl0s/13Camera_ObjectiveC_NoARC#2-taking-pictures-and-uiimagepickercontroller)
@@ -208,6 +252,10 @@ It keeps an inventory of all your possessions. In the case of a fire or other ca
 
 ### UIPopoverController is deprecated
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/104044010-49d24180-51a2-11eb-881c-e7b097fb0624.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/104072864-efe97000-51d1-11eb-9eac-d6529bacab84.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/104073113-7dc55b00-51d2-11eb-9e0f-0eb2d9c3fa7b.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/104073478-620e8480-51d3-11eb-96f4-5835c82fd5e2.gif" width="250"> |
+
 1. [x] [1. Universalizing Homepwner](https://github.com/c4arl0s/14UIPopoverControllerAndModalViewControllers#1-universalizing-homepwner)
 2. [x] [2. UIPopoverController](https://github.com/c4arl0s/14UIPopoverControllerAndModalViewControllers#2-uipopovercontroller)
 3. [x] [3. Modal View Controllers](https://github.com/c4arl0s/14UIPopoverControllerAndModalViewControllers#3-modal-view-controllers)
@@ -217,6 +265,10 @@ It keeps an inventory of all your possessions. In the case of a fire or other ca
 7. [x] [7. Modal View Controller Transitions](https://github.com/c4arl0s/14UIPopoverControllerAndModalViewControllers#7-modal-view-controller-transitions)
 
 # [15. Saving, Loading and Multitasking (Using MRC)](https://github.com/c4arl0s/15SavingLoadingAndMultitaskingObjectiveCMRC#15-saving-loading-and-multitasking)
+
+| At a glance: Notes                                                                                                            |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124400092-9fb51b80-dce5-11eb-9835-fbc560743954.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124400110-b9eef980-dce5-11eb-8b02-979c3dd28320.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/104131476-26db9500-533c-11eb-973d-099f963931df.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/104132825-5b078380-5345-11eb-897b-3f75fecca89d.png" width="250"> |
 
 1. [x] [1. Application Sandbox](https://github.com/c4arl0s/15SavingLoadingAndMultitaskingObjectiveCNoARC#1-application-sandbox)
 2. [x] [2. Constructing a file path](https://github.com/c4arl0s/15SavingLoadingAndMultitaskingObjectiveCNoARC#2-constructing-a-file-path)
@@ -234,6 +286,10 @@ It keeps an inventory of all your possessions. In the case of a fire or other ca
 
 # [16. Subclassingi UITableViewCell (using MRC](https://github.com/c4arl0s/16SubclassingUITableViewCellObjectiveC_NoARC#16-subclassingi-uitableviewcell---objectivec---noarc)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124400204-57e2c400-dce6-11eb-89e6-3c1d86481433.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124400178-3da8e600-dce6-11eb-9b5e-7db00d2e9fdc.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/104412906-e8f49180-5532-11eb-8a58-c83203f634e2.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/104548836-3a665480-55f7-11eb-8d87-eaf623299288.gif" width="250"> |
+
 1. [x] [1. Creating HomepwnerItemCell](https://github.com/c4arl0s/16SubclassingUITableViewCellObjectiveC_NoARC#1-creating-homepwneritemcell)
 2. [x] [2. Creating Subviews](https://github.com/c4arl0s/16SubclassingUITableViewCellObjectiveC_NoARC#2-creating-subviews)
 3. [x] [3. Laying out subviews](https://github.com/c4arl0s/16SubclassingUITableViewCellObjectiveC_NoARC#3-laying-out-subviews)
@@ -243,6 +299,10 @@ It keeps an inventory of all your possessions. In the case of a fire or other ca
 7. [x] [7. Challenge: Shrinking the Main Image](https://github.com/c4arl0s/16SubclassingUITableViewCellObjectiveC_NoARC#6-challenge-accessory-indicators)
 
 # [17. CoreData (using MRC)](https://github.com/c4arl0s/17CoreData_ObjectiveC_NoARC#17-coredata---objectivec---noarc)
+
+| At a glance: Notes                                                                                                            |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/104819585-f8563200-57f3-11eb-80df-080a600cb7de.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124400291-e8b99f80-dce6-11eb-8fc6-26109a21a1e4.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/105117383-01642f00-5a92-11eb-881d-4831020f49f4.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/105125715-ad157b00-5aa2-11eb-86ca-e2b73d478049.gif" width="250"> |
 
 1. [x] [1. Objective-Relation mapping](https://github.com/c4arl0s/17CoreData_ObjectiveC_NoARC#1-objective-relation-mapping)
 2. [x] [2. Moving Homepwner to Core Data](https://github.com/c4arl0s/17CoreData_ObjectiveC_NoARC#2-moving-homepwner-to-core-data)
@@ -257,6 +317,10 @@ It keeps an inventory of all your possessions. In the case of a fire or other ca
 
 # [18. Localization (using MRC)](https://github.com/c4arl0s/18LocalizationObjectiveCMRC#18-localization---objectivec---mrc)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/105202220-5d1ccf80-5b07-11eb-9b03-eebe5150ebf2.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/105268801-71d58380-5b58-11eb-8fbe-e65bd7aaad10.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/105285969-0650dd80-5b7b-11eb-9186-2b51674066ee.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/105286027-25e80600-5b7b-11eb-9ad6-dee3344ddbc6.png" width="250"> |
+
 ### [End of the Homepwner App](https://github.com/c4arl0s/18LocalizationObjectiveCMRC#3-nslocalizedstring-and-string-tables)
 
 1. [x] [1. Internationalization using NSLocale](https://github.com/c4arl0s/18LocalizationObjectiveCMRC#1-internationalization-using-nslocale)
@@ -266,6 +330,10 @@ It keeps an inventory of all your possessions. In the case of a fire or other ca
 5. [x] [5. For the More Curious: NSBundle's Role in Internationalization](https://github.com/c4arl0s/18LocalizationObjectiveCMRC#5-for-the-more-curious-nsbundles-role-in-internationalization)
 
 # [19. Settings (using MRC)](https://github.com/c4arl0s/19Settings_MRCObjectiveC#19-settings---mrc---objectivec)
+
+| At a glance: Notes                                                                                                            |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/105389821-ee5e7580-5bdd-11eb-8583-4556054ec2c5.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/105399623-7f871980-5be9-11eb-80d2-fd50ba708415.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124400566-199ad400-dce9-11eb-91a0-3946e9913b84.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124400586-32a38500-dce9-11eb-8572-eaf3fff6fb33.png" width="250"> |
 
 1. [x] [1. Updating Whereami](https://github.com/c4arl0s/19Settings_MRCObjectiveC#1-updating-whereami)
 2. [x] [2. NUserDefaults](https://github.com/c4arl0s/19Settings_MRCObjectiveC#2-nuserdefaults)
@@ -292,6 +360,10 @@ It keeps an inventory of all your possessions. In the case of a fire or other ca
 
 # [21. Instruments (using MRC)](https://github.com/c4arl0s/21Instruments#21-instruments)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/106069790-c7fe7580-60c8-11eb-97c8-5df16723090d.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/106168020-70f1b280-6153-11eb-96ce-5cab6a1337c7.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/106182274-36dcdc80-6164-11eb-83fb-33840644bdca.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/106181920-ce8dfb00-6163-11eb-8fd2-cc2d3187121a.gif" width="250"> |
+
 1. [x] [1. The Static Analizer](https://github.com/c4arl0s/21Instruments#1-the-static-analizer)
 2. [x] [2. Instruments](https://github.com/c4arl0s/21Instruments#2-instruments)
 3. [x] [3. The Allocations Instrument](https://github.com/c4arl0s/21Instruments#3-the-allocations-instrument)
@@ -304,6 +376,10 @@ It keeps an inventory of all your possessions. In the case of a fire or other ca
 
 # [22. Core Animation Layer (Using MRC)](https://github.com/c4arl0s/22CoreAnimationLayer#22-core-animation-layer)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/106304120-93053680-6220-11eb-96ac-35cfac4cbbf8.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/106319852-b12a6100-6237-11eb-8c00-1cb0aaea24a8.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/106320657-c8b61980-6238-11eb-8341-b1d8c866329a.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/106321398-d28c4c80-6239-11eb-90b0-854146299c97.gif" width="250"> |
+
 1. [x] [1. Layers and views](https://github.com/c4arl0s/22CoreAnimationLayer#1-layers-and-views)
 2. [x] [2. Creating a CALayer](https://github.com/c4arl0s/22CoreAnimationLayer#2-creating-a-calayer)
 3. [x] [3. Layer Content](https://github.com/c4arl0s/22CoreAnimationLayer#3-layer-content)
@@ -314,6 +390,10 @@ It keeps an inventory of all your possessions. In the case of a fire or other ca
 
 # [23. Controlling Animation With CAAnimation (Using MRC)](https://github.com/c4arl0s/23ControllingAnimationWithCAAnimation#23-controlling-animation-with-caanimation---content-1)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/106536520-3de65080-64be-11eb-9865-6386b98b04e5.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/106538182-79cee500-64c1-11eb-8c1f-214bef92be35.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/106539406-8c4a1e00-64c3-11eb-81be-53b0ff86ccce.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/106565477-7bfe6700-64f4-11eb-8328-2e66df993f62.gif" width="250"> |
+
 1. [x] [1. Animation Objects](https://github.com/c4arl0s/23ControllingAnimationWithCAAnimation#1-animation-objects)
 2. [x] [2. Spinning with CABasicAnimation](https://github.com/c4arl0s/23ControllingAnimationWithCAAnimation#2-spinning-with-cabasicanimation)
 3. [x] [3. Timing functions](https://github.com/c4arl0s/23ControllingAnimationWithCAAnimation#3-timing-functions)
@@ -323,6 +403,10 @@ It keeps an inventory of all your possessions. In the case of a fire or other ca
 7. [x] [7. For the More Curious: The Presentation Layer and the Model Layer](https://github.com/c4arl0s/23ControllingAnimationWithCAAnimation#7-for-the-more-curious-the-presentation-layer-and-the-model-layer)
 
 # [24. Blocks And Categories (Using MRC)](https://github.com/c4arl0s/24BlocksAndCategoriesObjectiveCMRC#24-blocks-and-categories---objectivec---mrc)
+
+| At a glance: Notes                                                                                                            |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/106642759-63bb3600-654e-11eb-9592-b2942b783e7c.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/106654197-6c673880-655d-11eb-8c22-3224d8be7101.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/106674999-d7bf0380-6579-11eb-89c9-3cc7e97a1e45.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/106779329-7f851180-660c-11eb-90b1-a1f8cc7d9534.gif" width="250"> |
 
 ### [End of the Touchtracker App](https://github.com/c4arl0s/24BlocksAndCategoriesObjectiveCMRC#6-categories)
 
@@ -359,6 +443,10 @@ Application that reads the RSS feed from the Apple newsroom web services. These 
 12. [x] [Challenge: More UIWebView](https://github.com/c4arl0s/25WebServicesAndUIWebViewObjectiveCMRC#12-challenge-more-uiwebview)
 
 # [26. UISplitViewController (Using MRC)](https://github.com/c4arl0s/26UISplitViewControllerObjectriveCMRC#26-uisplitviewcontroller---objectrivec---mrc)
+
+| At a glance: Notes                                                                                                            |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/107579728-32301380-6bbb-11eb-9582-3302291860a6.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/107590948-1f273e80-6bcf-11eb-8177-605706143f62.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/107602014-ec407300-6bed-11eb-9491-50866b655450.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/107708823-c36dbb80-6c89-11eb-8c7c-8bb8a2b5be78.gif" width="250"> |
 
 1. [x] [1. Spliting Up Nerdfeed](https://github.com/c4arl0s/26UISplitViewControllerObjectriveCMRC#1-spliting-up-nerdfeed)
 2. [x] [2. Master-Detail Communication](https://github.com/c4arl0s/26UISplitViewControllerObjectriveCMRC#2-master-detail-communication)
@@ -412,6 +500,10 @@ It creates a server to broadcast its presence and advertise its service on a loc
 11. [x] [11. For the More Curious: TXTRecords](https://github.com/c4arl0s/28BonjourAndWebServersObjectiveCMRC#11-for-the-more-curious-txtrecords)
 
 # [29. Push Notifications And Networking (using MRC)](https://github.com/c4arl0s/29PushNotificationsAndNetworkingObjectiveCMRC#29-push-notifications-and-networking---objectivec---mrc)
+
+| At a glance: Notes                                                                                                            |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124402641-4229ca80-dcf7-11eb-8d95-c4e2551402c5.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/108551184-3348fb00-72b5-11eb-9c33-55cfd4c0d035.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/108552117-7c4d7f00-72b6-11eb-84f0-c45ab3485229.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/108464532-f691eb00-7245-11eb-913f-e3686bdbf7a0.png" width="250"> |
 
 1. [x] [1. Preparing Client for Push Notifications](https://github.com/c4arl0s/29PushNotificationsAndNetworkingObjectiveCMRC#1-preparing-client-for-push-notifications)
 2. [x] [2. Registering for notifications](https://github.com/c4arl0s/29PushNotificationsAndNetworkingObjectiveCMRC#2-registering-for-notifications)
