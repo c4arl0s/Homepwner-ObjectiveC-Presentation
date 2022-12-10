@@ -1,0 +1,27 @@
+[submodule "10UITableViewAndUITableViewControllerObjectiveCMRC"]
+	path = 10UITableViewAndUITableViewControllerObjectiveCMRC
+	url = git@github.com:c4arl0s/10UITableViewAndUITableViewControllerObjectiveCMRC.git
+[submodule "11EditingUITableView_ObjectiveC"]
+	path = 11EditingUITableView_ObjectiveC
+	url = git@github.com:c4arl0s/11EditingUITableView_ObjectiveC.git
+[submodule "12UINavigationController"]
+	path = 12UINavigationController
+	url = git@github.com:c4arl0s/12UINavigationController.git
+[submodule "13Camera_ObjectiveC_NoARC"]
+	path = 13Camera_ObjectiveC_NoARC
+	url = git@github.com:c4arl0s/13Camera_ObjectiveC_NoARC.git
+[submodule "14UIPopoverControllerAndModalViewControllers"]
+	path = 14UIPopoverControllerAndModalViewControllers
+	url = git@github.com:c4arl0s/14UIPopoverControllerAndModalViewControllers.git
+[submodule "15SavingLoadingAndMultitaskingObjectiveCMRC"]
+	path = 15SavingLoadingAndMultitaskingObjectiveCMRC
+	url = git@github.com:c4arl0s/15SavingLoadingAndMultitaskingObjectiveCMRC.git
+[submodule "16SubclassingUITableViewCellObjectiveC_NoARC"]
+	path = 16SubclassingUITableViewCellObjectiveC_NoARC
+	url = git@github.com:c4arl0s/16SubclassingUITableViewCellObjectiveC_NoARC.git
+[submodule "17CoreData_ObjectiveC_NoARC"]
+	path = 17CoreData_ObjectiveC_NoARC
+	url = git@github.com:c4arl0s/17CoreData_ObjectiveC_NoARC.git
+[submodule "18LocalizationObjectiveCMRC"]
+	path = 18LocalizationObjectiveCMRC
+	url = git@github.com:c4arl0s/18LocalizationObjectiveCMRC.git
